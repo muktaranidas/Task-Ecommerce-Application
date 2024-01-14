@@ -1,3 +1,43 @@
+
+.middle-nav-logo{
+    width: 150px;
+    height: 30px;
+ 
+    
+}
+.search-btn{
+    background-color: orange;
+    border: none ;
+    border-radius: 0px 10px 10px 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+.heart-svg{
+width: 20px;
+/* padding: 25px; */
+}
+.nav-icon{
+padding:10px 20px;
+}
+.nav-2{
+    background-color: cadetblue;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-size: 25px;
+    
+}
+.user{
+    border-radius:  50%;
+    background-color: rgb(232, 229, 229);
+    padding: 10px;
+
+}
+.search-field{
+    width: 600px;
+}
+
 .cardd{
     width: 200px;
     /* padding-left:  8px;
